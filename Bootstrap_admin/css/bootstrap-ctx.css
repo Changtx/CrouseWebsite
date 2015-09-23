@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    padding-bottom: 51px;
+}
+
+/*进度条*/
+.progress {
+    margin-bottom: 15px;
+}
+.wh64{
+    width: 64px;
+    height: 64px;
+}
+/*进度条*/
+.mar_t15{
+    margin-top: 15px;
+}
+/*page heading*/
+.page-header {
+    margin-top: 0;
+
+}
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+
+/*footer*/
+footer {
+    font-weight: 400px;
+    text-align: center;
+    padding: 24px 24px;
+}
